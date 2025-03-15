@@ -35,6 +35,9 @@ body {
 #about-body {
   padding-top: 100px;
 }
+.projects-container {
+  margin: auto;
+}
 #projects-header {
   padding-top: 100px;
 }
