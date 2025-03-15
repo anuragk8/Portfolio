@@ -47,11 +47,6 @@ body {
   margin: 5px;
   padding: 5px;
 }
-.skills-container {
-  display: flex;
-  justify-content: center;
-  margin: auto;
-}
 .skill-box {
   width: auto;
   height: auto;
